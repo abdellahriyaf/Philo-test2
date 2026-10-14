@@ -6,10 +6,10 @@ window.SITE = {
     { id: 1, title: "الوضع البشري", color: "#1f7a72", desc: "من أنا؟ وكيف أعيش مع الآخرين؟",
       subunits: [ { id: 1, title: "الشخص", file: "content/u1-s1.html" }, { id: 2, title: "الغير", file: "content/u1-s2.html" } ] },
     { id: 2, title: "المعرفة", color: "#2e5aa8", desc: "كيف نعرف؟ وما قيمة العلم؟",
-      subunits: [ { id: 1, title: "النظرية والتجربة", file: "content/u2-s1.html" }, { id: 2, title: "العقلانية العلمية", file: "content/u2-s2.html" } ] },
+      subunits: [ { id: 1, title: "النظرية والتجربة", file: "content/u2-s1.html" }, { id: 2, title: "الحقيقة", file: "content/u2-s2.html" } ] },
     { id: 3, title: "السياسة", color: "#c98a1b", desc: "الدولة والحق والعدالة.",
       subunits: [ { id: 1, title: "الدولة", file: "content/u3-s1.html" }, { id: 2, title: "الحق والعدالة", file: "content/u3-s2.html" } ] },
-    { id: 4, title: "الأخلاق", color: "#a8453f", desc: "الحرية والسعادة والواجب.",
+    { id: 4, title: "الأخلاق", color: "#a8453f", desc: "الحرية.",
       subunits: [ { id: 1, title: "الحرية", file: "content/u4-s1.html" }, { id: 2, title: "السعادة", file: "content/u4-s2.html" } ] }
   ]
 };
